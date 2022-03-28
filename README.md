@@ -1,4 +1,12 @@
-I’m @bancalarisantiago
+<h2 align="center">Hi there, I’m @bancalarisantiago</h2>
+<p align="center">
+   <a href="https://thealex.netlify.app"><img src="https://img.shields.io/badge/PORTFOLIO-CC6699?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>&nbsp;
+   <a href="https://codepen.io/xavier290"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />  </a>&nbsp;
+   <a href="https://twitter.com/makito031"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
+</p>
+
+
+
 
 - 👋 Hello world!
 
@@ -7,11 +15,6 @@ I’m @bancalarisantiago
 - I am currently currently learning the necessary technologies to develop as a Full Stack Developer and progress in my career as a programmer.
 - I am interested in enhancing and transferring my knowledge as an audiovisual designer to Front End development.
 - I consider myself a responsible,passionate,  committed person and constantly growing  with a very good predisposition in learning new tools and innovative ways to develop applications.
-
-
-
-![Anurag's GitHub stats]()
-[![Top Langs]()](https://github.com/bancalarisantiago/github-readme-stats)
 
 
 <p align="center">
