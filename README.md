@@ -1,8 +1,8 @@
-<h2 align="center">Hi there, I’m @bancalarisantiago</h2>
+<h2 align="center">Hi there, I’m Santiago Bancalari</h2>
 <p align="center">
-   <a href="https://thealex.netlify.app"><img src="https://img.shields.io/badge/PORTFOLIO-CC6699?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>&nbsp;
-   <a href="https://codepen.io/xavier290"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />  </a>&nbsp;
-   <a href="https://twitter.com/makito031"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
+   <img src="https://img.shields.io/badge/PORTFOLIO-CC6699?style=for-the-badge&logoColor=white" alt="Portfolio" />
+   <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
+   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
 </p>
 
 
