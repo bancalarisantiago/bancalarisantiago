@@ -10,5 +10,11 @@ I’m @bancalarisantiago
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bancalarisantiago&show_icons=true&theme=gruvbox)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bancalarisantiago&layout=compact&theme=gruvbox)](https://github.com/bancalarisantiago/github-readme-stats)
+![Anurag's GitHub stats]()
+[![Top Langs]()](https://github.com/bancalarisantiago/github-readme-stats)
+
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=bancalarisantiago&show_icons=true&theme=gruvbox" width="50%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bancalarisantiago&layout=compact&theme=gruvbox" width="42%" />
+</p>
