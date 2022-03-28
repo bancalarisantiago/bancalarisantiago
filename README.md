@@ -1,10 +1,9 @@
 <h2 align="center">Hi there, I’m Santiago Bancalari</h2>
 
 
-/*<p align="center">
-   <img src="https://img.shields.io/badge/PORTFOLIO-CC6699?style=for-the-badge&logoColor=white" alt="Portfolio" />
-   <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
-</p>*/
+[comment]: <> ( <img src="https://img.shields.io/badge/PORTFOLIO-CC6699?style=for-the-badge&logoColor=white" alt="Portfolio" /> )
+ [comment]: <> (  <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /> )
+
 
 
 
