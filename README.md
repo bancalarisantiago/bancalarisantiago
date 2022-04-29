@@ -20,7 +20,6 @@
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bancalarisantiago&layout=compact&theme=gruvbox" width="42%" />
 </p>
 
-<h3> Languages and Tools</h3>
  <p>Languages</p>
    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
