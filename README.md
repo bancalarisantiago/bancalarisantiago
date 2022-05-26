@@ -1,13 +1,12 @@
 <div>
 
-<h2 align="center">Hi there, I’m Santiago Bancalari</h2>
+<h2 align="center"> 👋 Hello world , I’m Santiago Bancalari</h2>
 
 
 [comment]: <> ( <img src="https://img.shields.io/badge/PORTFOLIO-CC6699?style=for-the-badge&logoColor=white" alt="Portfolio" /> )
  [comment]: <> (  <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /> )
 
 <div>
-   <span> 👋 Hello world! </span>
   <ul>
     <li> As a computer and design lover I have decided to turn my professional career of audiovisual designer with more than 10 years of experience to dedicate myself      to the world of technology and information. </li>
     <li> I have recently finished the Henry bootcamp, which involved more than 800 hours of programming. </li>
